@@ -1,15 +1,8 @@
-# Hi, I'm Imran 👋 It's nice to Meet You!
-
-  <a href="https://github.com/imrand-dev?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imrand-dev?color=green&logo=github">
-  </a> 
-  <a href="https://github.com/imrand-dev/">
-    <img src="https://komarev.com/ghpvc/?username=imrand-dev" alt="visitors" />
-  </a>
+# Hi, It's me Imran, 👋 nice to Meet You!
 
 ## About me
 
-- 🏢 Actively Looking for Opportunities in Software Industry.
+- 🏢 Currently Looking for Opportunities in Software Industry.
 - ⚙️ Use daily: `python`, `django`, `drf`, `postgresql`.
 - 📫 Reach me: imranzdev@gmail.com
 - 🌱 Improving Myself with `django`, `django-ninja`, `react/nextjs`.
@@ -17,7 +10,9 @@
 
 ## Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django.svg" alt="Django"> <img height="48" src="img/drf.png" alt="Django Rest"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/js.svg" alt="js"> <img height="48" src="img/nextjs.svg" alt="nextjs">
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django.svg" alt="Django"> <img height="48" src="img/drf.png" alt="Django Rest"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/js.svg" alt="js"> 
+
+<!-- <img height="48" src="img/nextjs.svg" alt="nextjs"> -->
 
 <!--  -->
 
@@ -31,7 +26,7 @@
 
 <b>&#128200; Profile</b>
 <p float="left">
-<img height="200em" src="https://leetcard.jacoblin.cool/imranxyz?theme=light&font=Karma&ext=contest" />
+<img height="200em" src="https://leetcard.jacoblin.cool/imran-potter?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" /> -->
 </p>
 
