@@ -1,7 +1,5 @@
 # Hi, It's me Imran, 👋 nice to Meet You!
 
-## About me
-
 - 🏢 Currently Looking for Opportunities in Software Industry.
 - ⚙️ Use daily: `python`, `django`, `drf`, `postgresql`.
 - 📫 Reach me: imranzdev@gmail.com
